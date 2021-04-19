@@ -86,7 +86,7 @@ public class ImagesActivity extends AppCompatActivity implements ImageAdapter.On
 
     @Override
     public void onWhateverClick(int position) {
-        Toast.makeText(this, "whatever Click at position " + position, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Keep Book", Toast.LENGTH_SHORT).show();
     }
 
     @Override
